@@ -1,0 +1,19 @@
+{
+  "name": "gsstf",
+  "version": "1.0.0",
+  "description": "火星坐标中国化",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ltovem/GSSTF.git"
+  },
+  "author": "ltove",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ltovem/GSSTF/issues"
+  },
+  "homepage": "https://github.com/ltovem/GSSTF#readme"
+}
