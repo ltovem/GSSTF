@@ -123,4 +123,4 @@
     
 
 }
-module.exports=GSSTF;
+module.exports=gsstf;
